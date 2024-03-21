@@ -1,0 +1,14 @@
+{
+    "name": "Crypto-extension",
+    "description": "This extension is used to fetch top gainer and losers coins.",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_title": "Crypto-extension",
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "logo.svg",
+            "128": "logo.svg"
+        }
+    }
+}
